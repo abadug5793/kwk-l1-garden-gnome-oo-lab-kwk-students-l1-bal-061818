@@ -1,5 +1,6 @@
 # Code your instances here
 class GardenGnome
+  attr_accessor :gluten_allergy
 
   def name=(name)             #setter
     @name = name
