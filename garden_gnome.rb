@@ -17,5 +17,3 @@ class GardenGnome
 
 
 end
-
-Bob = GardenGnome.new("Bob")
