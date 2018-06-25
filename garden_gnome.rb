@@ -2,6 +2,10 @@
 class GardenGnome
   attr_accessor :gluten_allergy
 
+  def initialize(hat_color = "red")
+    @hat_color = hat_color
+    @personality = "evil"
+  end
   def name=(name)             #setter
     @name = name
   end
