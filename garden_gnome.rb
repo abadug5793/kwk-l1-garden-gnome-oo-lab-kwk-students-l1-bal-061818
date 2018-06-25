@@ -33,7 +33,7 @@ class GardenGnome
   #   @gluten_allergy
   # end
 
-
+def introduce_self
 
 
 end
