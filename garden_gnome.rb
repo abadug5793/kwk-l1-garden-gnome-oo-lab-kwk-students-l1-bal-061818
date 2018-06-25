@@ -8,4 +8,4 @@ class GardenGnome
 
 end
 
-"Carl the Creepy"
+"Carl the Creepy" = GardenGnome.new("Carl the Creepy")
