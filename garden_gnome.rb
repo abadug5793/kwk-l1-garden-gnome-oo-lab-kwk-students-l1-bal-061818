@@ -6,6 +6,10 @@ class GardenGnome
     @hat_color = hat_color
     @personality = "evil"
   end
+
+  def gnaw
+    return "Gnawing on a tree!!!"
+  end
   def name=(name)             #setter
     @name = name
   end
