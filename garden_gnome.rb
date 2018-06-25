@@ -10,6 +10,7 @@ class GardenGnome
   def gnaw
     return "Gnawing on a tree!!!"
   end
+  
   def name=(name)             #setter
     @name = name
   end
