@@ -11,8 +11,8 @@ class GardenGnome
   def age=(age)             #setter
     @age = age
   end
-  def name                   #getter
-    @name
+  def age                   #getter
+    @age
   end
 
 
