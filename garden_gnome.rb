@@ -14,7 +14,7 @@ class GardenGnome
   def shout
     return "GNARLY!!!"
   end
-  
+
   def name=(name)             #setter
     @name = name
   end
