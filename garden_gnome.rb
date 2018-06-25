@@ -5,5 +5,4 @@ class GardenGnome
     @name = name
   end
 
-
 end
