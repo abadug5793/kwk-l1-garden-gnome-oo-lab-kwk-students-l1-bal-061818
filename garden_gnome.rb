@@ -4,3 +4,5 @@ class GardenGnome
     @name = "name"
   end
 end
+
+Bob = GardenGnome.new("Bob")
