@@ -1,6 +1,6 @@
 # Code your instances here
 class GardenGnome
-  attr_accessor :gluten_allergy, :name, :age 
+  attr_accessor :gluten_allergy, :name, :age
   attr_reader :personality
 
   def initialize(hat_color = "red")
@@ -40,5 +40,3 @@ def introduce_self
 end
 
 end
-
-bob = GardenGnomes.new("bo")
