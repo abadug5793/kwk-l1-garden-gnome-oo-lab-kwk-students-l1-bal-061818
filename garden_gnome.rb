@@ -1,8 +1,8 @@
 # Code your instances here
 class GardenGnome
-  attr_accessor
+
 def name=(name)             #setter
-    @name = "name"
+    @name = name
   end
 end
 
