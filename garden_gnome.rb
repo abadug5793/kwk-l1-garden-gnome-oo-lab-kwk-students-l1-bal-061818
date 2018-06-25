@@ -21,14 +21,14 @@ class GardenGnome
   # def name                   #getter
   #   @name
   # end
-  # 
+  #
   # def age=(age)             #setter
   #   @age = age
   # end
   # def age                   #getter
   #   @age
   # end
-  # 
+  #
   # def gluten_allergy
   #   @gluten_allergy
   # end
