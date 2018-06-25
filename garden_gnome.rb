@@ -7,3 +7,5 @@ class GardenGnome
   end
 
 end
+
+"Carl the Creepy"
