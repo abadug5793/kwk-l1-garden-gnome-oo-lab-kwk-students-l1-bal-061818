@@ -1,12 +1,12 @@
 # Code your instances here
 class GardenGnome
-  attr_accessor :gluten_allergy, :name, :age
+  attr_accessor :gluten_allergy, :name, :age, :personality
 
   def initialize(hat_color = "red")
     @hat_color = hat_color
-    @personality = "evil"
   end
 
+  
   def gnaw
     return "Gnawing on a tree!!!"
   end
@@ -38,3 +38,5 @@ def introduce_self
 end
 
 end
+
+bob = GardenGnomes.new("bo")
